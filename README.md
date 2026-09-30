@@ -1,6 +1,6 @@
 # Caso de estudio: Marketing Mix Modeling aplicado (OLS → Ridge)
 
-Notebook educativo que replica, paso a paso, la metodología estadística detrás de un modelo de **Marketing Mix Modeling (MMM)** con **Robyn (Meta)**, usando un dataset **simulado** de inversión semanal en Meta Ads, Google Ads, DV360 y TikTok, y su efecto en ventas.
+Caso de estudio de Marketing Mix Modeling (MMM), replicando la metodología estadística que apliqué en un proyecto real con Robyn (Meta), sobre un dataset simulado de inversión semanal en Meta Ads, Google Ads, DV360 y TikTok y su efecto en ventas.
 
 > **Nota sobre los datos:** los proyectos reales de MMM en los que he trabajado están bajo acuerdo de confidencialidad con el cliente, por lo que este notebook usa datos 100% sintéticos generados para fines demostrativos. La metodología, las herramientas y el flujo de trabajo (exploración → detección de multicolinealidad → OLS → Ridge → interpretación de negocio → evaluación) sí reflejan el proceso real que apliqué en un proyecto de MMM con Robyn en un contexto de agencia de medios.
 
